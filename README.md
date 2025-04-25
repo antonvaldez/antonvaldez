@@ -1,7 +1,15 @@
-## Hi there 👋
+<h1>Hi, I'm Anton! <br/>
+
+<h2>👨‍💻 Python Portfolio: </h2>
+
+- [Project]
+
+<h2>📜 Certifications: </h2>
+
+- [Certificate]
 
 <!--
-**antonvaldez/antonvaldez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
