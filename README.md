@@ -23,9 +23,8 @@
 
 ### 📌 Current Projects
 
-- 🔐 **Password Generator App** — CLI Python tool to generate secure passwords
-- 🌤️ **Weather CLI** — Python app that fetches weather using an API
-- 📂 **File Organizer** — Automates file sorting in folders using Python
+- 🃏 ***Blackjack Capstone Project*** - On-going
+- 🔢 ***Calculator***
 
 Check out my repositories to see how I’m progressing 👇
 
