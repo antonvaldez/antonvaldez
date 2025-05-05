@@ -33,8 +33,8 @@ Check out my repositories to see how I’m progressing 👇
 
 ### 📫 Let’s Connect
 
-- [LinkedIn] https://www.linkedin.com/in/manuel-antonio-iii-valdez-2b0789261/
-- 📧 valdezanton97@gmail.com
+- [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="20"/>](https://www.linkedin.com/in/manuel-antonio-iii-valdez-2b0789261/)
+- [📧](mailto:valdezanton97@gmail.com)
 
 ---
 
