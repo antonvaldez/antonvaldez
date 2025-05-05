@@ -1,24 +1,42 @@
-<h1>Hi, I'm Anton! <br/>
+<h1 align="center">Hi, I'm Anton 👋</h1>
 
-<h2>👨‍💻 Python Portfolio: </h2>
+<p align="center">
+  💻 Aspiring Software Developer | 🐍 Python Enthusiast | 🚀 Tech Career Shifter
+</p>
 
-- [Project]
+---
 
-<h2>📜 Certifications: </h2>
+### 👨‍💻 About Me
 
-- [Certificate]
+- 🎓 Civil Engineer turned aspiring **Software Developer**
+- 🔁 Currently transitioning into the tech industry
+- 🧠 Always learning: Python, HTML, CSS, JavaScript, Node.js, React and more
+- 📍 Based in the Philippines
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack (So Far)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🐍 Python
+
+---
+
+### 📌 Current Projects
+
+- 🔐 **Password Generator App** — CLI Python tool to generate secure passwords
+- 🌤️ **Weather CLI** — Python app that fetches weather using an API
+- 📂 **File Organizer** — Automates file sorting in folders using Python
+
+Check out my repositories to see how I’m progressing 👇
+
+---
+
+### 📫 Let’s Connect
+
+- [LinkedIn] https://www.linkedin.com/in/manuel-antonio-iii-valdez-2b0789261/
+- 📧 valdezanton97@gmail.com
+
+---
+
+> 💡 “Build, break, repeat — that’s how I learn.”
+
