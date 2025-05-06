@@ -23,7 +23,7 @@
 
 ### 📌 Current Projects
 
-- 🃏 ***Blackjack Capstone Project*** - On-going
+- 🃏 ***Blackjack Project***
 - 🔢 ***Calculator***
 
 Check out my repositories to see how I’m progressing 👇
