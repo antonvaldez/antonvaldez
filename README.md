@@ -23,6 +23,7 @@
 
 ### 📌 Current Projects
 
+- ☕ ***Virtual Coffee Machine***
 - 🃏 ***Blackjack Project***
 - 🔢 ***Calculator***
 
