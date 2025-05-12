@@ -25,6 +25,7 @@
 
 - ☕ ***Virtual Coffee Machine***
 - 🃏 ***Blackjack Project***
+- 📝 ***OOP Quiz App***
 - 🔢 ***Calculator***
 
 Check out my repositories to see how I’m progressing 👇
