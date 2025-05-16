@@ -15,9 +15,12 @@
 
 ---
 
-### 🛠️ Tech Stack (So Far)
+### 🛠️ Tech Stack
 
 - 🐍 Python
+- 🌐 HTML
+- 🎨 CSS
+- ⚙️ JavaScript
 
 ---
 
