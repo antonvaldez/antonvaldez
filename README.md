@@ -26,8 +26,8 @@
 
 ### 📌 Current Projects
 
+- 🏓 ***Pong Game***
 - 🐍 ***Snake Game***
-- ☕ ***Virtual Coffee Machine***
 - 🃏 ***Blackjack Project***
 
 Check out my repositories to see how I’m progressing 👇
