@@ -26,6 +26,7 @@
 
 ### 📌 Current Projects
 
+- 🎌 ***Japanese Flash Cards***
 - 🏓 ***Pong Game***
 - 🐍 ***Snake Game***
 - 🃏 ***Blackjack Project***
