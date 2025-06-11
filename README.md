@@ -30,7 +30,6 @@
 - 🎌 ***Japanese Flash Cards***
 - 🏓 ***Pong Game***
 - 🐍 ***Snake Game***
-- 🃏 ***Blackjack Project***
 
 Check out my repositories to see how I’m progressing 👇
 
