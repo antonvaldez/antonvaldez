@@ -26,6 +26,7 @@
 
 ### 📌 Current Projects
 
+- 🧠 ***Quizzler Application***
 - 🎌 ***Japanese Flash Cards***
 - 🏓 ***Pong Game***
 - 🐍 ***Snake Game***
