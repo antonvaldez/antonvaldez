@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Civil Engineer turned aspiring **Software Developer**
+- 🎓 Civil Engineer turned aspiring **Full Stack Web Developer**
 - 🔁 Currently transitioning into the tech industry
 - 🧠 Always learning: Python, HTML, CSS, JavaScript, Node.js, React and more
 - 📍 Based in the Philippines
