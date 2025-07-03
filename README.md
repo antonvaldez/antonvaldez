@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Anton 👋</h1>
 
 <p align="center">
-  💻 Aspiring Software Developer | 🐍 Python Enthusiast | 🚀 Tech Career Shifter
+  💻 Aspiring Web Developer | 🐍 Python Enthusiast | 🚀 Tech Career Shifter
 </p>
 
 ---
