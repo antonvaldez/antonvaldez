@@ -26,6 +26,7 @@
 
 ### 📌 Current Projects
 
+- ***Front-end Developer Capstone Project***
 - 🧠 ***Quizzler Application***
 - 🎌 ***Japanese Flash Cards***
 - 🏓 ***Pong Game***
